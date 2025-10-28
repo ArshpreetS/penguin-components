@@ -1,5 +1,5 @@
 import './App.css';
-import { FlightCard } from './components/flight-card';
+import { FlightCard } from './components/flight-card/flight-card';
 
 function App() {
 
