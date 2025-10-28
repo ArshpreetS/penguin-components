@@ -11,3 +11,6 @@ This is my personal attempt at creating good looking UI. This includes attempt a
 ![Flight card component](./screenshots/image.png)
 
 2. Hero section 
+
+- [] Create a simple hero section
+- [] Learn to add animations ( possible library gsap )
